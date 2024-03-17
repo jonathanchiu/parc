@@ -1,4 +1,6 @@
 # Perfectly Adequate Runners Club (PARC)
+<img src="https://dgalywyr863hv.cloudfront.net/pictures/clubs/1107146/26361935/5/large.jpg" width="500"/>
+
 Repository for [PARC](https://perfectlyadequaterunners.club), a running [club](https://www.strava.com/clubs/parc) of perfectly adequate runners based in NYC
 
 🐸 ​🇹​​🇦​​🇩​​🇵​​🇴​​🇱​​🇪​​🇸​
