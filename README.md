@@ -1,5 +1,5 @@
 # Perfectly Adequate Runners Club (PARC)
-Repository for [PARC](perfectlyadequaterunners.club), a running [club](https://www.strava.com/clubs/parc) of perfectly adequate runners based in NYC
+Repository for [PARC](https://perfectlyadequaterunners.club), a running [club](https://www.strava.com/clubs/parc) of perfectly adequate runners based in NYC
 
 🐸 ​🇹​​🇦​​🇩​​🇵​​🇴​​🇱​​🇪​​🇸​
 - 10-12min/mile pace group
